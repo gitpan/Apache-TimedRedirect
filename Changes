@@ -1,0 +1,6 @@
+Revision history for Perl extension Apache::TimedRedirect.
+
+0.01  Tue Sep  1 17:36:49 1998
+	- original version; created by h2xs 1.18
+0.12  Thu Sep 17 23:56:20 EDT 1998
+        - added exclude and logging
